@@ -6,7 +6,7 @@ import Header from './HeaderComponents/Header';
 function App() {
   return (
   <>
-   <Header />
+//   <Header />
   </>
   );
 }
